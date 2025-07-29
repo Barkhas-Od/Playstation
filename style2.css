@@ -1,0 +1,98 @@
+.header{
+	background-color:black; 
+}
+.logo{
+	width:50%;
+	margin-top:10px;
+	height:70px;
+}
+#what{
+	width:100%;
+}
+.header .menu a{
+	color:white;
+	text-decoration:none;
+	margin-right:10px;
+	font-size:23px;
+	margin-top:25px;
+}
+.header .menu a:hover{
+		border-bottom:2px solid #fff;
+		
+}
+.header{
+	height:80px;
+}
+#searchBar{
+	margin-top:25px;
+}
+.menu{
+	margin-top:25px;
+}
+.why img{
+	width:500px;
+}
+.who{
+	position:relative;
+	overflow:hidden;
+	bottom:0px;
+	transition:2s;
+}
+.who img{
+	object-fit:cover;
+}
+
+.who h2{
+	position:absolute;
+	bottom:0;
+	background-color:rgba(255,255,255,0.5);
+	opacity:1;
+}
+.who img:hover {
+	background-color:rgba(255,255,255,0.5);
+	transition:2s;
+	transform:scale(1.2);
+}
+.who h2:hover{
+	color:blue;
+	opacity:1;
+
+}
+.who .image{
+	position:absolute;
+	top:10px;
+	background-color:rgba(255,255,255,0.5);
+	width:100%;
+}
+*{
+	box-sizing:border-box:
+}	
+.container .row .col-md-2 img{
+	width:200px;
+	height:200px;
+}
+.container .row .col-md-4 img{
+	width:400px;
+	height:200px;
+}
+body{
+	background-color:#03051c !important;
+}
+.container .row .col-md-4 h3{
+	color:white;
+}
+.container .row .col-md-2 h3{
+	color:white;
+}
+.when h1{
+	color:white;
+}
+.when p{
+	color:white;
+}
+@media (max-width:650px){
+	.container .row .col-md-4 img{
+	width:100px;
+	height:200px;
+}
+}

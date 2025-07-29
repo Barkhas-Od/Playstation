@@ -1,0 +1,212 @@
+.logo{
+	width:100px !important;
+	height:8vh !important;
+	margin-top:10px;
+}
+.box a{
+	text-decoration:none;
+}
+#what{
+	width:100%;
+	height:90vh;
+}
+.header .menu a{
+	color:white;
+	text-decoration:none;
+	margin-right:10px;
+	font-size:23px;
+	margin-top:25px;
+}
+.header .menu a:hover{
+		border-bottom:2px solid #fff;
+		
+}
+.header{
+	height:10vh;
+	position:relative;	
+	background-color:black;
+}
+.header .container{
+	position:relative;
+	top:0px;
+	left:0px;
+	width:100%;
+}
+#searchBar{
+	margin-top:25px;
+}
+.menu{
+	margin-top:25px;
+}
+body{
+	background-color:#03051c !important;
+}
+.row .col-md-2 img{
+	width:150px;
+	height:63px;
+	margin-top:10px;
+}
+.display{
+	display:block;
+}
+.box{
+	margin-top:30px;
+	padding:15px;
+	transition:0.5s;
+	
+	display:block;
+}
+.box:hover{
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
+	transition:0.5s !important;
+}
+img{
+	width:250px;
+	height:150px;
+}
+.box{
+	position:relative;
+	overflow:hidden;
+	bottom:0px;
+	transition:2s;
+	width:500px;
+	top:100px;
+	margin-left:100px;
+}
+.box:hover{
+	background-color:rgba(255,255,255,0.5);
+}
+.box img{
+	object-fit:cover;
+}
+
+.box h3{
+	display:block;
+	bottom:-10px;
+	width:100%;
+	opacity:1;
+}
+.box img:hover {
+	transition:2s;
+	transform:scale(1.2);
+}
+.box h2:hover{
+	color:blue;
+	opacity:1;
+}
+.box .image{
+	position:absolute;
+	top:10px;
+	background-color:rgba(255,255,255,0.5);
+	width:100%;
+}
+
+.about{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://image.api.playstation.com/vulcan/ap/rnd/202009/2915/bhiihnx1zPu3thnYo0t4TcGr.png'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+	
+}
+.about1{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://afterstorygaming.com/wp-content/uploads/2015/10/90995-1.jpg?w=750'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about2{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://cdn.80.lv/api/upload/post/5174/images/5d2ce784561c5/widen_2440x0.png'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about3{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://media-rockstargames-com.akamaized.net/tina-uploads/posts/akk98a4o755825/5e6f14bf3b02e6f5342632d1dc08e5a7b4406c8c.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about4{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://cdn.mos.cms.futurecdn.net/8wZWhhHd8a5GgmzSshGQ5Q.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about11{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/06/death-in-red-dead-redemption-cropped.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about6{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://i0.wp.com/halcyonrealms.com/blogpics/portal2art01.jpg?ssl=1'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about7{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/9/23/1285256465478/17481LittleBigPlanet2_02.gif?width=465&dpr=1&s=none&crop=none'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about9{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://progameguides.com/wp-content/uploads/2021/06/6vq9bgP-1.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}.about10{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://th.bing.com/th/id/R.1d8f9700948cc189cdb5f76cb58e308d?rik=qlKKCZY2O%2b1TOg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-qE5wmmx5wpc%2fT9UP047_foI%2fAAAAAAAAAAY%2fdbFJBz6xDeg%2fs1600%2fGod-of-War-3-Review-2.jpg&ehk=dg1F%2bMvx3lmozPXNWALJuJaKTa3uKWGE1GVHvqeG8s4%3d&risl=&pid=ImgRaw&r=0'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+
+.fixed{
+	width:100px;
+	height:100px;
+	position:fixed;
+	top:0px;
+	right:50px;
+}

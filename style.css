@@ -1,0 +1,243 @@
+.header{
+	background-color:black; 
+}
+.logo{
+	width:50%;
+	margin-top:10px;
+	height:70px;
+}
+
+.header .menu a{
+	color:white;
+	text-decoration:none;
+	margin-right:10px;
+	font-size:23px;
+	margin-top:25px;
+}
+.header .menu a:hover{
+		border-bottom:2px solid #fff;
+		
+}
+.header{
+	height:80px;
+}
+#searchBar{
+	margin-top:25px;
+}
+.menu{
+	margin-top:25px;
+}
+
+.box a{
+	text-decoration:none;
+}
+#what{
+	width:100%;
+	height:90vh;
+}
+
+.header .menu a:hover{
+		border-bottom:2px solid #fff;
+		
+}
+body{
+	background-color:#03051c !important;
+}
+.row .col-md-2 img{
+	width:150px;
+	height:63px;
+	margin-top:10px;
+}
+.display{
+	display:block;
+}
+.box{
+	margin-top:30px;
+	padding:15px;
+	transition:0.5s;
+	
+	display:block;
+}
+.box:hover{
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
+	transition:0.5s !important;
+}
+img{
+	width:250px;
+	height:150px;
+}
+.box{
+	position:relative;
+	overflow:hidden;
+	bottom:0px;
+	transition:2s;
+	width:500px;
+	top:100px;
+	margin-left:100px;
+}
+.box:hover{
+	background-color:rgba(255,255,255,0.5);
+}
+.box img{
+	object-fit:cover;
+}
+
+.box h3{
+	display:block;
+	bottom:-10px;
+	width:100%;
+	opacity:1;
+}
+.box img:hover {
+	transition:2s;
+	transform:scale(1.2);
+}
+.box h2:hover{
+	color:blue;
+	opacity:1;
+}
+.box .image{
+	position:absolute;
+	top:10px;
+	background-color:rgba(255,255,255,0.5);
+	width:100%;
+}
+
+.about{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_ab807f8ad9e968a620777caf483cb6020367b9ee.1920x1080.jpg?t=1736385712'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+	
+}
+.about1{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/36/1536085792-marvels-spider-man-ps4-game-playstation-4-review-3.jpg?crop=0.9422222222222223xw:1xh;center,top&resize=1200:*'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about2{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://cdn.mos.cms.futurecdn.net/PjhveTjTLLAvSuSeZsjGsJ-1200-80.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about3{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://i.guim.co.uk/img/media/4cd2e3dfef9da0adb8f4ea1294d4d1097f50bd63/152_0_2234_1342/master/2234.jpg?width=1200&quality=85&auto=format&fit=max&s=e556f1df87e5634ae249d37073a327e1'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about4{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://www.nme.com/wp-content/uploads/2024/11/call-of-duty-black-ops-6-season-2-release-date.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about11{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://mesalegend.com/wp-content/uploads/2023/02/sc8kvh.png'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about6{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://www.shop-justforgames.com/cdn/shop/files/Black_Myth_Wukong_PS5_Screen_07.jpg?v=1729517140&width=2400'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about7{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://media.rockstargames.com/rockstargames-newsite/uploads/f712fef39e8a8816ebee31939b187ff159144dd7.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.about9{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://www.godisageek.com/wp-content/uploads/mortal-kombat-ultimate-ps5-review.jpg'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}.about10{
+	width:100%;
+	height:100vh;
+	display:block;
+	background-image:url('https://th.bing.com/th/id/R.10a1dd4a3b62a499f95df3c850cfad2b?rik=qPrQOI64B0begg&pid=ImgRaw&r=0'); 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+}
+.fixed{
+	background-color:rgba(255,255,255,0.5);
+}
+.fixed{
+	width:100px;
+	height:100px;
+	position:fixed;
+	top:0px;
+	right:50px;
+	z-index:998;
+}
+@media (max-width:650px){
+	.container{
+		opacity:0;
+	}
+	.about{
+	width:390px;
+	height:100vh;
+	display:block;
+	background-image:url('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_ab807f8ad9e968a620777caf483cb6020367b9ee.1920x1080.jpg?t=1736385712') !important; 
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+	}
+	.mobile .about .box img{
+		margin-right:300px;
+	}
+	.box{
+	position:relative;
+	overflow:hidden;
+	bottom:0px;
+	transition:2s;
+	width:390px;
+	top:100px;
+	margin-left:0px;
+}
+}
